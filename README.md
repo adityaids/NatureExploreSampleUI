@@ -9,4 +9,4 @@ Thanks to @michaelf.design for make a wonderfull mockups and @ui.squirel who rep
 you can find them at instagram
 
 ##### Config
-This software made with Android studio `3.5.3` minSdk API 21 and compileSdk 29 test on AVD Pixel 3a XL
+This sample apps made with Android studio `3.5.3` minSdk API 21 and compileSdk 29 test on AVD Pixel 3a XL
